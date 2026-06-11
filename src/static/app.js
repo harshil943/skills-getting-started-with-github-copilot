@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const signupForm = document.getElementById("signup-form");
   const messageDiv = document.getElementById("message");
 
-  // step 3 completed
+  // step 3 completed again
   // Function to fetch activities from API
   async function fetchActivities() {
     try {
